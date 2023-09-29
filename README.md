@@ -1,0 +1,2 @@
+# Diakonia
+ Gerenciador de escalas
